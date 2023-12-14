@@ -50,6 +50,6 @@ This is an example of the expected input measurements and expected output predic
 
 ### Output
 
-![Graph of continuous fat burning prediction](continuous-example.png)
+![Graph of continuous fat burning prediction](example.png)
 
 *Figure: Example graph of continuous fat burning prediction.*
