@@ -53,3 +53,19 @@ This is an example of the expected input measurements and expected output predic
 ![Graph of continuous fat burning prediction](example.png)
 
 *Figure: Example graph of continuous fat burning prediction.*
+
+## Results
+
+### Continuous prediction
+
+![Graph of continuous fat burning prediction](output/continuous.png)
+
+*Figure: Graph of continuous fat burning prediction.*
+
+### Daily prediction
+
+#### Day 1
+
+![Graph of day 1 fat burning prediction](output/1.png)
+
+*Figure: Graph of day 1 fat burning prediction.*
